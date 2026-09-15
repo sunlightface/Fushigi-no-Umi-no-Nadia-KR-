@@ -1709,19 +1709,19 @@ Text_403:
 .string "<RAM03D4>은 레벨이 올랐다!<END>"
 
 Text_404:
-.string "최대 체력이 <RAM03CB>늘었다!<END>"
+.string "최대 체력이 <RAM03CB> 늘었다!<END>"
 
 Text_405:
-.string "최대 기력이 <RAM03CB>늘었다!<END>"
+.string "최대 기력이 <RAM03CB> 늘었다!<END>"
 
 Text_406:
-.string "공격력이 <RAM03CB>올랐다!<END>"
+.string "공격력이 <RAM03CB> 올랐다!<END>"
 
 Text_407:
-.string "방어력이 <RAM03CB>올랐다!<END>"
+.string "방어력이 <RAM03CB> 올랐다!<END>"
 
 Text_408:
-.string "민첩성이 <RAM03CB>올랐다!<END>"
+.string "민첩성이 <RAM03CB> 올랐다!<END>"
 
 Text_409:
 .string "<RAM03D4>은 <RAM03DD>을 장비했다!<END>"
